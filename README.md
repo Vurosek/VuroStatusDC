@@ -1,4 +1,4 @@
-![image](https://github.com/Vurosek/VuroStatusDC/assets/171480844/7228161d-2242-4612-b157-9e84d2c47c11)# VuroStatusDC
+// Wejdz Na Discord Jeżeli Potrzebujesz Pomocy  https://discord.gg/dnpcYNcrwU 
  
 Do poprawnego działania bota :
 

@@ -11,9 +11,9 @@ const client = new Client({
 });
 
 const config = {
-    DISCORD_BOT_TOKEN: 'MTI0NjIwNzE0ODUzNTMyMDU4Ng.G1AXs3.nDic6eqMcmtvhSGTtGaX77giosveU95JBPMR6M', //Token Bota Discord
-    FIVEM_SERVER_IP: '91.134.91.170', // Ip Serwera (Tylko Numeryczne)
-    FIVEM_SERVER_PORT: '30120', // Port Serwera
+    DISCORD_BOT_TOKEN: '', //Token Bota Discord
+    FIVEM_SERVER_IP: '', // Ip Serwera (Tylko Numeryczne)
+    FIVEM_SERVER_PORT: '', // Port Serwera
 }
 client.once('ready', () => {
     console.log('Bot Online!');
